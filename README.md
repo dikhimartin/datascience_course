@@ -24,6 +24,15 @@ If you aren't use Visual Studio Code then you need to start Jupyter Lab to able 
 
     $ jupyter lab
 
+Note :
+ To activate this environment, use
+
+     $ conda activate bol_datascience_course
+
+ To deactivate an active environment, use
+
+     $ conda deactivate    
+
 References
 --------
 * [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (3rd edition)](https://homl.info/er3)
